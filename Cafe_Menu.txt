@@ -24,3 +24,5 @@ FRIDAY
 	Lunch
 
 ------------------------------------------------------------
+
+Working with GIT is fun! - Jared
